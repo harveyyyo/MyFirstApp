@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name" translatable="false">My First App</string>
 
-    <string name="text1">Hello, Android and GitHub!</string>
-    <string name="tapButton1">Tap me!</string>
+    <string name="text1" translatable="false">Hello, Android and GitHub!</string>
+    <string name="tapButton1" translatable="false">Tap me!</string>
 </resources>
