@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">私の最初のアプリケーション</string>
+
+    <string name="text1">こんにちは、 アンドロイドギトハブ！</string>
+    <string name="tapButton1">押して！</string>
+</resources>
